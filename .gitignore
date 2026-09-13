@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+bulk_sim.db
+demo_state.json
